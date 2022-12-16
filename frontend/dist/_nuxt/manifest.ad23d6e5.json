@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-strapi-frontend",
+  "short_name": "nuxt-strapi-frontend",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
