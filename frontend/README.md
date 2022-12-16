@@ -1,4 +1,4 @@
-# Nuxt + Strapi = Blog
+# Nuxt + Strapi -> Blog
 
 ## Build Setup
 
